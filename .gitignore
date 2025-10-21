@@ -1,0 +1,5 @@
+# Ignore large original dataset file
+data/Bengaluru_House_Data.csv
+
+# Ignore virtual environment
+venv/

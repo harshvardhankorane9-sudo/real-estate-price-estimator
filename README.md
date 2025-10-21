@@ -14,6 +14,10 @@ I cleaned and processed the data using Pandas and NumPy, removed outliers, handl
 The app can take simple inputs from the user and shows the estimated price in **Lakhs** or **Crores** automatically.  
 For example, if the prediction is 193 Lakhs, it shows it as **1.93 Crore**.
 
+> **Note:** Due to size constraints, the full dataset is **not included** in this repo.  
+> You can download the complete dataset from Kaggle here:  
+> 👉 [Bengaluru House Dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
+
 ---
 
 ## ⚙️ Tech Stack
@@ -22,10 +26,3 @@ For example, if the prediction is 193 Lakhs, it shows it as **1.93 Crore**.
 - Pandas, NumPy, Scikit‑Learn  
 - Matplotlib, Seaborn  
 - Streamlit for UI  
-
----
-
-## 🧩 Folder Structure
-
-Here’s how I organized the project:
-
